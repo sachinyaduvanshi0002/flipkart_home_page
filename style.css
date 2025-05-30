@@ -199,7 +199,7 @@ html, body {
 
 /* Best of Electronics Section */
 .electronics-section {
-    width: 80%;
+    width: 70%;
     padding: 20px;
     background-color: #fff;
     margin: 20px;
@@ -256,8 +256,8 @@ html, body {
     width: 200px;
     height: 300px;
     position: absolute;
-    top: 460px;
-    right: 20px;
+    top: 475px;
+    right: 10px;
     z-index: 20;
     cursor: pointer;
     margin: 20px auto;
